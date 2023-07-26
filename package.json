@@ -1,0 +1,8 @@
+{
+  "name": "primo-explore-bc-links-filter",
+  "version": "0.0.1",
+  "description": "Display only selected items in Links service",
+  "main": "index.js",
+  "author": "Scot Colford",
+  "license": "GPL-3.0"
+}

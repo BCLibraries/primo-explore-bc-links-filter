@@ -27,5 +27,6 @@ app.value('linksToKeep', [
   "Request Article",
   "Report a problem",
   "Display Source Record",
-  "Search for this record in WorldCat"
+  "Search for this record in WorldCat",
+  "View this resource in Syndetics"
 ]);

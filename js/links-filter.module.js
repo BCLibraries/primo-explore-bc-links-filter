@@ -21,3 +21,10 @@ angular
         });
       }
     });
+
+/* 856 links to display in Links service */
+app.value('linksToKeep', [
+  "Request Article",
+  "Report a problem",
+  "Display Source Record"
+]);

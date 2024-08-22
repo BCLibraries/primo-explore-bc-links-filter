@@ -26,5 +26,6 @@ angular
 app.value('linksToKeep', [
   "Request Article",
   "Report a problem",
-  "Display Source Record"
+  "Display Source Record",
+  "Search for this record in WorldCat"
 ]);
